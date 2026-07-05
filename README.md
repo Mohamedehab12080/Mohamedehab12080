@@ -16,7 +16,7 @@ I'm a passionate Java Software Engineer with experience in building scalable, hi
 - 🌱 I'm currently deepening my knowledge in  **event streaming patterns**
 - 💡 Interested in **system design**, **distributed computing**, and **cloud-native technologies**
 - 💬 Ask me about **Java, Spring Boot, Microservices, Event-Driven Architecture,Jenkins, and System Design**
-- 📫 How to reach me: **m.ehab.rabea@gmail.com** or connect with me on <a href="https://www.linkedin.com/in/www.linkedin.com/in/mohaamed-ehab">LinkedIn</a>
+- 📫 How to reach me: **m.ehab.rabea@gmail.com** or connect with me on <a href="https://www.linkedin.com/in/mohaamed-ehab/">LinkedIn</a>
 - ⚡ Fun fact: I enjoy solving system design challenges and contributing to open-source Java projects
 
 ---
